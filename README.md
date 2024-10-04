@@ -1,1 +1,1 @@
-# Learning PyTorch
+# Learning PyTorch from Scratch.
